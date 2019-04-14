@@ -35,7 +35,8 @@ model.add( Dense(output _dim=10))
 model.add(Activation('softmax'))
 
 ```
-![ee745722b57acbd78c4d4a2610ddab84.png](en-resource://database/551:1)
+![ee745722b57acbd78c4d4a2610ddab84.png](C:\Users\Jupiter\Pictures\印象笔记\dl\hello world\捕获.PNG)
+
 
 **goodness of function**
 <u>*Training Data & Loss Function*</u>
