@@ -35,7 +35,7 @@ model.add( Dense(output _dim=10))
 model.add(Activation('softmax'))
 
 ```
-![](https://github.com/JasCoops/NOTES/blob/master/DL/HELLO%20WORLD/hello%20world/%E6%8D%95%E8%8E%B7.PNG?raw=true)
+![](https://github.com/JasCoops/NOTES/raw/master/DL/HELLO%20WORLD/hello%20world/%E6%8D%95%E8%8E%B7.PNG?)
 
 
 **goodness of function**
